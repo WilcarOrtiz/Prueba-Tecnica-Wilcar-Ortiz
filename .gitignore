@@ -1,0 +1,10 @@
+
+# local env files
+.env*.local
+.env
+
+
+# Entorno virtual
+venv/
+*.pyc
+__pycache__/
