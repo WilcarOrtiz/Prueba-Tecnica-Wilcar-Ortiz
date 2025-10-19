@@ -27,7 +27,7 @@ El proyecto se centra en la extracción de información de una API, específicam
 ---
 
 
-### 🐍 Utilidades
+###  Utilidades
 | Paquete | Versión | Descripción |
 |----------|----------|-------------|
 | `pandas` | 2.3.3 | Manipulación y transformación de datos |
@@ -35,13 +35,13 @@ El proyecto se centra en la extracción de información de una API, específicam
 | `python-dotenv` | 1.1.1 | Manejo de variables de entorno (.env) |
 | `requests` | 2.32.5 | Consumo de APIs REST (extracción de datos) |
 
-### 🧩 Arquitectura ETL
+###  Arquitectura ETL
 - **Extracción:** API REST con `requests`
 - **Transformación:** Limpieza y estandarización con `pandas`
 - **Carga:** Inserción a base de datos AWS RDS/Aurora mediante `psycopg2`
 
 
-## ⚙️ Instruccion de ejecucion
+##  Instruccion de ejecucion
 
 1. Version de python **Python 3.14**
 
