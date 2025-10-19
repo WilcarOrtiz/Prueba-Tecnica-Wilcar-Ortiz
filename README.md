@@ -41,7 +41,7 @@ PIPELIN construido con **python** siguiendo buenas prácticas, con almacenamient
 
 ## ⚙️ Instruccion de ejecucion
 
-1. Version de python Python 3.14
+1. Version de python **Python 3.14**
 
 2. Clonar el repositorio
 ```
