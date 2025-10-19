@@ -9,6 +9,8 @@
 
 PIPELIN construido con **python** siguiendo buenas prácticas, con almacenamiento en **Postgress** en la nube de **AWS** para que sea accesible desde cualquier lugar el Data Warehouse.
 
+El proyecto se centra en la extracción de información de una API, específicamente de productos y compras, donde los identificadores no son únicos. La solución propuesta incluye las transformaciones necesarias para generar una fuente de información unificada, garantizando mayor trazabilidad y consistencia de los datos.
+
 ##  Tecnologias
 
 <p align="center">
